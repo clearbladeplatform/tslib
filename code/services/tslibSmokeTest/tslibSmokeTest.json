@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,tslib",
+    "logging_enabled": "false",
+    "name": "tslibSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "tslibSmokeTest.js"
+}
