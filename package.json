@@ -52,5 +52,6 @@
     "url": "git+https://github.com/Microsoft/tslib.git"
   },
   "typings": "tslib.d.ts",
-  "version": "1.9.3"
+  "version": "1.9.3",
+  "image": "https://i.imgur.com/Vlfcx1r.png"
 }
